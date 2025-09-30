@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "0a6662d7-495f-477a-a459-d228b78dc0a8",
+      "title": "Estudar",
+      "time": "afternoon",
+      "description": "Estudar React Router Dom",
+      "status": "in_progress"
+    },
+    {
+      "id": "96dbe189-7e36-4370-b14b-dfef2d901a84",
+      "title": "Ler Livros",
+      "time": "morning",
+      "description": "ssdfsdefgdfgdfgdf",
+      "status": "done"
+    },
+    {
+      "id": "cb732eab-9fa4-458d-acfb-657e8b5bed5d",
+      "title": "Teste",
+      "time": "evening",
+      "description": "TEste",
+      "status": "to-do"
+    }
+  ]
+}
